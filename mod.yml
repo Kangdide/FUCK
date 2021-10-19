@@ -1,0 +1,64 @@
+name: Jmari Fuck
+assets:
+
+#Voice
+- name: voice\us\battle\al0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\al0_sora.vsb
+- name: voice\us\battle\bb0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\bb0_sora.vsb
+- name: voice\us\battle\ca0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\ca0_sora.vsb
+- name: voice\us\battle\dc0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\dc0_sora.vsb
+- name: voice\us\battle\eh0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\eh0_sora.vsb
+- name: voice\us\battle\hb0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\hb0_sora.vsb
+- name: voice\us\battle\he0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\he0_sora.vsb
+- name: voice\us\battle\lk0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\lk0_sora.vsb
+- name: voice\us\battle\lm0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\lm0_sora.vsb
+- name: voice\us\battle\mu0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\mu0_sora.vsb
+- name: voice\us\battle\nm0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\nm0_sora.vsb
+- name: voice\us\battle\po0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\po0_sora.vsb
+- name: voice\us\battle\tr0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\tr0_sora.vsb
+- name: voice\us\battle\tt0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\tt0_sora.vsb
+- name: voice\us\battle\wi0_sora.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\wi0_sora.vsb
